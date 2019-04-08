@@ -47,11 +47,6 @@ cp application-test.properties.dist application-test.properties
 </dependency>
 ```
 
-## Configuration properties
-
-1. `cp src/main/resources/application.properties.dist src/main/resources/application.properties`
-2. `cp src/test/resources/application.properties.dist src/test/resources/application.properties`
-
 ## How to
 
 1. Create `/src/test/resources/data.xml` file for insert to DB for test:
